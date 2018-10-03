@@ -1,0 +1,687 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/21ca1fff5bf54163bfd166533a8accd0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/63b2997d0e59eeb153aca1667feb2bb9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/c31d6a5cb8673063ea65ee57bf868852/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/dfd61b963c10718fbe074605ebc29972/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/cf332945728f93f5e259d6edd28781ab/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/698bdc93f6d746b349e0a412f902ae31/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.4.0.aar/818ee0eab995a8950a5396514725d43a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/aff3669f1121fc185cd0471d2a814c6d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/7ea7bb83c2bd2ae103ddf02862ee25b5/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/e144fc7fc3f0cecc12b961972ac9e13f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/fdca0c1d4619d05aeb5ee2b8ed537dfb/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1349a1b0e2f1088238b5afc7cae20fce/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/d57d7ed99488d092ab8cd574037fb809/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/33d6b072ec1c50cdf952531975d83f31/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/3563f5110d49c278d960755e16ee5f57/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/47294970d19fb5ba2df2cbb2e6858d22/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/b4d870a3ed2ffdca34df7a2b12c4e9e9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-9.4.0.aar/af9ba9a3dcb8e0e62008f291b3a8344e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-9.4.0.aar/e950ac5e98e00294743c54f17c277b9c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/f5d39e3b28efec509ef9a0600ac8b790/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/c0d5ef43b9045d182201b75d2360973d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/b1e0e7330075f3e04b1449c302f587ea/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/9ef8f7c51e01f8b269c91c0d1dba211f/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/1a1873ca53b1de189be44f2a1abf2ccd/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/463fedbde3f393ff8678c4062352266c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/9dfc236882934c0ab7200661422de689/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/e7900da083cb6645858a7c5d38b617fb/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/026b15b67982f0350ba675507efa226a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/bbe113af420fd5b15e394d56b21f209c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/b78fb249994fe27967e1fc7e06905ccb/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:16:1-39:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/e43bfd3c94743c800b5daedb7fc13739/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2e5a41aa28bbdeb925eaaec46e361794/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+	package
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-36:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/21ca1fff5bf54163bfd166533a8accd0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/21ca1fff5bf54163bfd166533a8accd0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/63b2997d0e59eeb153aca1667feb2bb9/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/63b2997d0e59eeb153aca1667feb2bb9/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/c31d6a5cb8673063ea65ee57bf868852/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/c31d6a5cb8673063ea65ee57bf868852/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/aff3669f1121fc185cd0471d2a814c6d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/aff3669f1121fc185cd0471d2a814c6d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/7ea7bb83c2bd2ae103ddf02862ee25b5/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/7ea7bb83c2bd2ae103ddf02862ee25b5/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/e144fc7fc3f0cecc12b961972ac9e13f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/e144fc7fc3f0cecc12b961972ac9e13f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/fdca0c1d4619d05aeb5ee2b8ed537dfb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/fdca0c1d4619d05aeb5ee2b8ed537dfb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1349a1b0e2f1088238b5afc7cae20fce/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1349a1b0e2f1088238b5afc7cae20fce/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/d57d7ed99488d092ab8cd574037fb809/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/d57d7ed99488d092ab8cd574037fb809/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/33d6b072ec1c50cdf952531975d83f31/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/33d6b072ec1c50cdf952531975d83f31/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/f5d39e3b28efec509ef9a0600ac8b790/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/f5d39e3b28efec509ef9a0600ac8b790/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/c0d5ef43b9045d182201b75d2360973d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/c0d5ef43b9045d182201b75d2360973d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/9ef8f7c51e01f8b269c91c0d1dba211f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/9ef8f7c51e01f8b269c91c0d1dba211f/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/1a1873ca53b1de189be44f2a1abf2ccd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/1a1873ca53b1de189be44f2a1abf2ccd/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/463fedbde3f393ff8678c4062352266c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/463fedbde3f393ff8678c4062352266c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/9dfc236882934c0ab7200661422de689/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/9dfc236882934c0ab7200661422de689/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/e7900da083cb6645858a7c5d38b617fb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/e7900da083cb6645858a7c5d38b617fb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/026b15b67982f0350ba675507efa226a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/026b15b67982f0350ba675507efa226a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/bbe113af420fd5b15e394d56b21f209c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/bbe113af420fd5b15e394d56b21f209c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/b78fb249994fe27967e1fc7e06905ccb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/b78fb249994fe27967e1fc7e06905ccb/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/e43bfd3c94743c800b5daedb7fc13739/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/e43bfd3c94743c800b5daedb7fc13739/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2e5a41aa28bbdeb925eaaec46e361794/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2e5a41aa28bbdeb925eaaec46e361794/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/21ca1fff5bf54163bfd166533a8accd0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/21ca1fff5bf54163bfd166533a8accd0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/63b2997d0e59eeb153aca1667feb2bb9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/63b2997d0e59eeb153aca1667feb2bb9/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/c31d6a5cb8673063ea65ee57bf868852/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/c31d6a5cb8673063ea65ee57bf868852/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/dfd61b963c10718fbe074605ebc29972/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/multidex-1.0.0.aar/dfd61b963c10718fbe074605ebc29972/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/cf332945728f93f5e259d6edd28781ab/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/cf332945728f93f5e259d6edd28781ab/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/698bdc93f6d746b349e0a412f902ae31/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-9.4.0.aar/698bdc93f6d746b349e0a412f902ae31/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.4.0.aar/818ee0eab995a8950a5396514725d43a/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-9.4.0.aar/818ee0eab995a8950a5396514725d43a/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/aff3669f1121fc185cd0471d2a814c6d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/aff3669f1121fc185cd0471d2a814c6d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/7ea7bb83c2bd2ae103ddf02862ee25b5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-config-9.4.0.aar/7ea7bb83c2bd2ae103ddf02862ee25b5/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/e144fc7fc3f0cecc12b961972ac9e13f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-contextmanager-9.4.0.aar/e144fc7fc3f0cecc12b961972ac9e13f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/fdca0c1d4619d05aeb5ee2b8ed537dfb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-games-9.4.0.aar/fdca0c1d4619d05aeb5ee2b8ed537dfb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1349a1b0e2f1088238b5afc7cae20fce/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-drive-9.4.0.aar/1349a1b0e2f1088238b5afc7cae20fce/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/d57d7ed99488d092ab8cd574037fb809/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.4.0.aar/d57d7ed99488d092ab8cd574037fb809/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/33d6b072ec1c50cdf952531975d83f31/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.4.0.aar/33d6b072ec1c50cdf952531975d83f31/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/3563f5110d49c278d960755e16ee5f57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.4.0.aar/3563f5110d49c278d960755e16ee5f57/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/47294970d19fb5ba2df2cbb2e6858d22/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-9.4.0.aar/47294970d19fb5ba2df2cbb2e6858d22/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/b4d870a3ed2ffdca34df7a2b12c4e9e9/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.4.0.aar/b4d870a3ed2ffdca34df7a2b12c4e9e9/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-9.4.0.aar/af9ba9a3dcb8e0e62008f291b3a8344e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-9.4.0.aar/af9ba9a3dcb8e0e62008f291b3a8344e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-9.4.0.aar/e950ac5e98e00294743c54f17c277b9c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-9.4.0.aar/e950ac5e98e00294743c54f17c277b9c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/f5d39e3b28efec509ef9a0600ac8b790/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-fitness-9.4.0.aar/f5d39e3b28efec509ef9a0600ac8b790/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/c0d5ef43b9045d182201b75d2360973d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.4.0.aar/c0d5ef43b9045d182201b75d2360973d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/b1e0e7330075f3e04b1449c302f587ea/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/b1e0e7330075f3e04b1449c302f587ea/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/9ef8f7c51e01f8b269c91c0d1dba211f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-identity-9.4.0.aar/9ef8f7c51e01f8b269c91c0d1dba211f/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/1a1873ca53b1de189be44f2a1abf2ccd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-location-9.4.0.aar/1a1873ca53b1de189be44f2a1abf2ccd/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/463fedbde3f393ff8678c4062352266c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/463fedbde3f393ff8678c4062352266c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-nearby-9.4.0.aar/921228939f1ef3f7dda67fb6977b0199/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/9dfc236882934c0ab7200661422de689/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-panorama-9.4.0.aar/9dfc236882934c0ab7200661422de689/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/e7900da083cb6645858a7c5d38b617fb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/e7900da083cb6645858a7c5d38b617fb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/026b15b67982f0350ba675507efa226a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-9.4.0.aar/026b15b67982f0350ba675507efa226a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/bbe113af420fd5b15e394d56b21f209c/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/bbe113af420fd5b15e394d56b21f209c/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/b78fb249994fe27967e1fc7e06905ccb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-wearable-9.4.0.aar/b78fb249994fe27967e1fc7e06905ccb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/e43bfd3c94743c800b5daedb7fc13739/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/e43bfd3c94743c800b5daedb7fc13739/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2e5a41aa28bbdeb925eaaec46e361794/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/2e5a41aa28bbdeb925eaaec46e361794/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/levi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/b2945e72df4a077b4e759ac52090e7c1/AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/28520669ab9a9410a76141f6bbf22d97/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/6cf537946b4d615988b798367fb728de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/5fec02b489d42885e624ebed8ba96ef2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/57fdb65802255eb0df78571a971c9167/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/4762753823b1561114c5b0ef9913ec44/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/f411851944aad7b4ed41d3568e7210a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d61c303dbd681a07318ebda36d6160c2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/4d402653b595ed285bd3794b052a925b/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b9a60fc18daaa429c392c2bea8a4f477/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/109048b3997fef6304eb21d3c49e2617/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-9.4.0.aar/85afec4efc352dd32557869950449362/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/ce7de144d0fc43447b95d137199235e5/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-9.4.0.aar/0b6a072c1416fda623e1178068466783/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-auth-9.4.0.aar/75f2db5732f1a5aca1d52601158d9ad9/AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-crash-9.4.0.aar/49ba76e1fee89fc644ade9d3bb5b31c2/AndroidManifest.xml:29:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-iid-9.4.0.aar/96e46c8015b097bfca5e4211f1ab1d4e/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-gcm-9.4.0.aar/0c862860dcbab5de9b366dc5b0d9c8ec/AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-maps-9.4.0.aar/a4c963a4706644f462c2ee00abdb87b2/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/6479f51e70e3650d866c99caf8640333/AndroidManifest.xml:20:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:25:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-messaging-9.4.0.aar/c0dc5218212ff3109aa87fda58e20192/AndroidManifest.xml:28:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:29:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:31:13-36:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-9.4.0.aar/7dac5d07d50037b6b3ff617469c89c55/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/00f0eddd7981b899536acf60224949c7/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/11094246361c8b0759725b78158bd9e0/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:25:17-71
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:28:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:39:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/2e3201e31fce120fb641b96e8a8f5621/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/5060b4ab79f094ac6f311fecc2468ee0/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/levi/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/847750d2e6843611b8eac77c3c1014f0/AndroidManifest.xml:22:13-58
